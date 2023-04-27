@@ -5,9 +5,13 @@
 ### App
 * Flutter
 * Android
+* React
 
 ### Backend
 * Spring Boot (Kotlin)
+
+### ETC
+* WebRTC
 
 ### DevOps
 * Docker
