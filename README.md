@@ -16,8 +16,6 @@
 
 ### ETC
 * WebRTC
-
-### DevOps
 * Docker
 * Github Action
 
